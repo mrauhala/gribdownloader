@@ -1,0 +1,8 @@
+{
+    "idx_url": "https://nomads.ncep.noaa.gov/pub/data/nccf/com/gfs/prod/gfs.20241112/06/atmos/gfs.t06z.pgrb2.0p25.f001.idx",
+    "parameters": {
+        "TMP": ["850 mb", "2 m above ground"],
+        "UGRD": [],
+        "VGRD": []
+    }
+}
